@@ -1,4 +1,4 @@
-# distutils: language = c
+# distutils: language = c++
 # distutils: sources = ../common/maskApi.c
 
 #**************************************************************************
